@@ -1,0 +1,5 @@
+Head: 10,0, Body: 30,0, Arms: 50,0, Legs: 58,0
+Head: 10,0, Body: 30,0, Arms: 50,0, Legs: 58,0
+Head: 10,0, Body: 30,0, Arms: 50,0, Legs: 52,0
+Head: 10,0, Body: 30,0, Arms: 50,0, Legs: 55,0
+Head: 10,0, Body: 30,0, Arms: 50,0, Legs: 60,0
