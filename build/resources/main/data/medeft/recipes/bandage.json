@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " W ",
+    " S ",
+    " W "
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:string"
+    },
+    "S": {
+      "item": "minecraft:white_wool"
+    }
+  },
+  "result": {
+    "item": "medeft:bandage",
+    "count": 4
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "PPB",
+    "   "
+
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:leather"
+    },
+    "B": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "medeft:lifesaver_tourniquet"
+  }
+}
